@@ -94,3 +94,9 @@ img {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+footer {
+  background-color: gray; /* Серый фон */
+  padding: 10px;          /* Отступы внутри футера */
+  text-align: center;     /* Выравнивание текста по центру */
+}
