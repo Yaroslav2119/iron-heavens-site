@@ -97,6 +97,6 @@ img {
 
 footer {
   background-color: gray; /* Серый фон */
-  padding: 10px;          /* Отступы внутри футера */
-  text-align: center;     /* Выравнивание текста по центру */
+  padding: 1px;
+  line-height: 1px;
 }
